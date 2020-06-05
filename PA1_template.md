@@ -1,8 +1,9 @@
 ---
-title: "Reproducible Research: Peer Assessment 1"
-output: 
-  html_document:
-    keep_md: true
+title: "Plotting and Summarizing Activity Data"
+author: "Charanjit Singh"
+date: "05/June/2020"
+output: html_document
+keep_md: true
 ---
 
 
